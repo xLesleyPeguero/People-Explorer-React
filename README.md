@@ -8,3 +8,4 @@ Abajo adjunto pruebas:
 
 ![Screenshot](img/PeopleExplorer.png)
 ![Screenshot](img/PeopleExplorer2.png)
+
